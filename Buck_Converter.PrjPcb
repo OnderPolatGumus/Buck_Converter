@@ -118,38 +118,42 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - Buck_Converter_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.EXTREP
+DocumentPath=Project Outputs for Buck_Converter\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GBO
+DocumentPath=Project Outputs for Buck_Converter\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GM
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GTL
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GTO
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GTP
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Buck_Converter\PCB1.GTS
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
+DocumentPath=Project Outputs for Buck_Converter\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Buck_Converter\PCB1.REP
 DItemRevisionGUID=
 
